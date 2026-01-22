@@ -1,6 +1,6 @@
 {
-    "name": "andy",
-
-    "model": "gpt-5-nano"
-
+  "name": "andy",
+  "provider": "ollama",
+  "model": "llama3"
 }
+
